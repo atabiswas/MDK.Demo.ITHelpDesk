@@ -1,0 +1,6 @@
+@MDK.Demo.ITHelpDesk.Service.API_HostAddress = http://localhost:5269
+
+GET {{MDK.Demo.ITHelpDesk.Service.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
